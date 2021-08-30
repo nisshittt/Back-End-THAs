@@ -70,14 +70,24 @@ ______________________________For Object/Hash___________________________________
 ///////////////////////////////////////////////////////////////////////////////////////
 ---------------------------------------------------------------------------------------
 
-postgres commands 
+Postgres Commands :->> 
 
-        |  command   |                                     |   what they do ?    |
+        |  command   |                                     
 
--psqual -u <user name>                           -> To enter in postgress ( we have to provide user name and password )
--CREATE USER <user name> WITH PASSWORD '123456'; -> to create user name and password  
--CREATE DATABASE devs;
--\l                                              -> List all available databases, then exit
--\d <table name>                                 -> show the whole table 
-DROP TABLE <table name>                          -> for delete table 
-\q                                               -> quit
+1) psqual -u <user name>                           
+2) CREATE USER <user name> WITH PASSWORD '123456';   
+3) CREATE DATABASE devs;
+4) \l                                              
+5) \d <table name>                                  
+6) DROP TABLE <table name>                           
+7) \q           
+
+	|   what they do ?    |
+	
+1) To enter in postgress ( we have to provide user name and password )
+2) To create user name and password.
+3) Database created.
+4) List all available databases, then exit.
+5) Show the whole table.
+6) For delete table.
+7) Quit.
