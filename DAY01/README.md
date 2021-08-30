@@ -82,7 +82,7 @@ Postgres Commands :->>
 6) DROP TABLE <table name>                           
 7) \q           
 
-	|   what they do ?    |
+	|   what they do ?   |
 	
 1) To enter in postgress ( we have to provide user name and password )
 2) To create user name and password.
