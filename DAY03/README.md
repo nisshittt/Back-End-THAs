@@ -1,3 +1,4 @@
+![Screenshot (9)](https://user-images.githubusercontent.com/84226173/132698625-46e68ddf-cadf-4932-b413-0965a89c5aa1.png)
 /////------------------------- [ CHAT APPLICATION ] ----------------------/////
 
 COMMAND PROMT 1:
